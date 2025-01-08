@@ -1,6 +1,6 @@
 We all program computers. If you ever used a spreadsheet and wrote some formulas, or set up an alarm on your cell phone, you were in fact programming a computer to do your bidding.
 
-Alan Perlis in the Foreword to the famous book "Structure and Interpretation of Computer Programs" claims that "Educators, generals, dieticians, psychologists, and parents pgoram. Armies, students, and some societies are programmed."
+Alan Perlis in the Foreword to the famous book "Structure and Interpretation of Computer Programs" claims that "Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed."
 
 Some people say everyone should learn coding, and a lot of people seem to believe that a career in software engineering is a ticket into the upper middle class or beyond. That's not something I personally support.
 
